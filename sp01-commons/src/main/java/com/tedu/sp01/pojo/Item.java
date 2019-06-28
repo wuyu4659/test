@@ -10,6 +10,8 @@ import lombok.NoArgsConstructor;
 public class Item {
 	//编号
 	private Integer id;
+	//名字
 	private String name;
+	//1423156
 	private Integer number;
 }
